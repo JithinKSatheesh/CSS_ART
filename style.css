@@ -342,3 +342,8 @@ i:nth-of-type(9){
     color: white;
     border: none;
 }
+
+@media screen and (max-width:400px){
+	.code_container{
+		display:none;
+}
