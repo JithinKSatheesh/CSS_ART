@@ -346,4 +346,8 @@ i:nth-of-type(9){
 @media screen and (max-width:400px){
 	.code_container{
 		display:none;
+	}
+	.huge{
+		font-size:2em
+	}
 }
