@@ -336,7 +336,7 @@ i:nth-of-type(9){
     margin: auto;
     height: 100px;
     max-width: 400px;
-    width: 400px;
+    width: 100%;
     background-color: #1e1e1e;
     overflow-y: scroll;
     color: white;
